@@ -2,7 +2,7 @@ repo_name: yuriportfolio/ogsupa
 report_id: eb3838c3f76c1377221c10c08a7ea2f5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:22+00:00'
+timestamp: '2024-02-29T18:21:45+00:00'
 requested_by: janniks
 provider: github
 branch: main
@@ -56,7 +56,7 @@ tools:
   last_updated_by: janniks
   last_updated_on: 2021-10-04 18:01:29.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 11.1.2
   open_source: true
